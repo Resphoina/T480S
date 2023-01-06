@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220908-000-independent-warehouse/"}
+{"dg-publish":true,"permalink":"/(2_021)(任务日志)/√(20220908)-(任务封闭)-(000)-(运维)-(华北总仓独立切换-INDEPENDENT WAREHOUSE)/"}
 ---
 
 
