@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220531-000-np-tally-table/"}
+{"dg-publish":true,"permalink":"/(2_021)(原子熔炼)/√(20220531)-(语句学习)-(000)-(NP)-(进阶Tally Table)/"}
 ---
 
 
