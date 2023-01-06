@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220824-000-p-clone-newuser/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20220824)-(过程解析)-(000)-(数仓)-(复制权限-P_CLONE_NEWUSER)/"}
 ---
 
 
