@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220413-061-der-store-xs-switch-proc/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20220413)-(过程解析)-(061)-(基础)-(DER_STORE_XS_SWITCH_PROC)/"}
 ---
 
 
