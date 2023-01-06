@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20211211-000-xtb-parm-warehouse/"}
+{"dg-publish":true,"permalink":"/(2_021)(单表标注)/√(20211211)-(单表标注)-(000)-(数仓)-(XTB_PARM_WAREHOUSE-参数调用中枢表)/"}
 ---
 
 
