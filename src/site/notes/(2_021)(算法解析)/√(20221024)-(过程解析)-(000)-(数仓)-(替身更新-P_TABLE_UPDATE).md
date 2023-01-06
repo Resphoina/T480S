@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20221024-000-p-table-update/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20221024)-(过程解析)-(000)-(数仓)-(替身更新-P_TABLE_UPDATE)/"}
 ---
 
 
