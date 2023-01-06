@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220609-000-np-tally-table/"}
+{"dg-publish":true,"permalink":"/(2_021)(原子熔炼)/√(20220609)-(语句学习)-(000)-(NP)-(应用TallyTable)/"}
 ---
 
 
