@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20211209-000-np-set-noexec-on-raiserror/"}
+{"dg-publish":true,"permalink":"/(2_021)(原子熔炼)/√(20211209)-(算法原子)-(000)-(NP)-(SET NOEXEC ON与RAISERROR的比较)/"}
 ---
 
 
