@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220308-000-np-cube-rollup-grouping-sets/"}
+{"dg-publish":true,"permalink":"/(2_021)(原子熔炼)/√(20220308)-(语句学习)-(000)-(NP)-(案例理解CUBE和ROLLUP和GROUPING SETS)/"}
 ---
 
 
