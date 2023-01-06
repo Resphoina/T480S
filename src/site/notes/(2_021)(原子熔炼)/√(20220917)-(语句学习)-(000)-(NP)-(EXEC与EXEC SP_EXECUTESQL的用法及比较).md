@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220917-000-np-exec-exec-sp-executesql/"}
+{"dg-publish":true,"permalink":"/(2_021)(原子熔炼)/√(20220917)-(语句学习)-(000)-(NP)-(EXEC与EXEC SP_EXECUTESQL的用法及比较)/"}
 ---
 
 
