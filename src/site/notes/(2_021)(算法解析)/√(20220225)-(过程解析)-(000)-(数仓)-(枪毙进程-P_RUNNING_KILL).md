@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220225-000-p-running-kill/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20220225)-(过程解析)-(000)-(数仓)-(枪毙进程-P_RUNNING_KILL)/"}
 ---
 
 
