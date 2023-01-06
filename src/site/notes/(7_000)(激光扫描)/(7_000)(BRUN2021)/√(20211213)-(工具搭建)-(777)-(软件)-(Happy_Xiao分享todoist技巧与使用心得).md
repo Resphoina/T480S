@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-000/7-000-brun-2021/20211213-777-happy-xiao-todoist/"}
+{"dg-publish":true,"permalink":"/(7_000)(激光扫描)/(7_000)(BRUN2021)/√(20211213)-(工具搭建)-(777)-(软件)-(Happy_Xiao分享todoist技巧与使用心得)/"}
 ---
 
 
