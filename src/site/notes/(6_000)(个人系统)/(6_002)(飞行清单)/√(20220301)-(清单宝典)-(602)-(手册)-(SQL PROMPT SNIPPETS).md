@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-000/6-002/20220301-602-sql-prompt-snippets/"}
+{"dg-publish":true,"permalink":"/(6_000)(个人系统)/(6_002)(飞行清单)/√(20220301)-(清单宝典)-(602)-(手册)-(SQL PROMPT SNIPPETS)/"}
 ---
 
 
