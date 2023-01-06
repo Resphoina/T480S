@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220810-000-gs-1-business-plan/"}
+{"dg-publish":true,"permalink":"/(2_021)(任务日志)/(20220810)-(任务封闭)-(000)-(项目)-(GS1项目合作计划书-Business Plan)/"}
 ---
 
 
