@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20220920-000-p-sysjob-category/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20220920)-(过程解析)-(000)-(数仓)-(配置基础作业类别-P_SYSJOB_CATEGORY)/"}
 ---
 
 
