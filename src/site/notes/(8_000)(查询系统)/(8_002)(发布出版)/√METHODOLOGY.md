@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-000/8-002/methodology/"}
+{"dg-publish":true,"permalink":"/(8_000)(查询系统)/(8_002)(发布出版)/√METHODOLOGY/"}
 ---
 
 
